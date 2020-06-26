@@ -29,3 +29,10 @@ console.log(hmac.digest('hex'));
 ```
 
 <pre>Example From https://nodejs.org/api/crypto.html#crypto_class_hmac</pre>
+
+## Hashlib
+`<script src="https://cdn.jsdelivr.net/gh/FreeSoftwareDevlopment/Crypto-Browser-Lib@master/hashlib.js"></script>`
+
+FunctionName: hashlib()
+
+[Serverside doc here](https://www.npmjs.com/package/shark-hashlib)
